@@ -1,0 +1,126 @@
+[
+    {
+        "penawaran hari ini": [
+            "bakmi ayam goreng",
+            "bakmi ayam kuah",
+            "bakmi cumi kuah",
+            "bakmi cumi goreng",
+            "bakmi udang kuah",
+            "bakmi udang goreng",
+            "bakmi seafood kuah",
+            "bakmi seafood goreng",
+            "bakmi spesial kuah",
+            "bakmi spesial goreng",
+            "bihun ayam kuah",
+            "bihun ayam goreng",
+            "bihun cumi goreng/kuah",
+            "bihun udang goreng/kuah",
+            "bihun seafood goreng",
+            "bihun spesial goreng/kuah",
+            "kwetiao udang kuah",
+            "kwetiao ayam goreng",
+            "kwetiao udang goreng",
+            "kwetiao seafood goreng",
+            "kwetiao spesial goreng",
+            "fuyunghai ayam + nasi",
+            "fuyunghai cumi + nasi",
+            "fuyunghai udang + nasi",
+            "fuyunghai seafood + nasi",
+            "cap cay kuah",
+            "cap cay goreng"
+        ],
+        "minuman": [
+            "jus melon",
+            "es kopi hitam",
+            "jus strawberry",
+            "jus tomat",
+            "jus wortel",
+            "jus jeruk",
+            "es teh",
+            "es jeruk",
+            "es capucino",
+            "es melon ceria",
+            "es bola bola pelangi",
+            "jus jambu",
+            "jus alpukat",
+            "jus mangga"
+        ],
+        "promo paket": [
+            "soup jamur ayam +es teh",
+            "bakmi ayam goreng + es teh",
+            "nasgor telur + es teh"
+        ],
+        "sate seafood": [
+            "otak-otak singapure",
+            "fish ball",
+            "fish roll",
+            "duo twister",
+            "sosis",
+            "fish dumpling cheese",
+            "fish dumpling checken",
+            "chikuwa",
+            "crab stik",
+            "crab flavoured nugget",
+            "fried fish ball",
+            "scallop",
+            "crab claw",
+            "bakso",
+            "salmon ball",
+            "oriental cartoon"
+        ],
+        "ca kangkung": [
+            "ca kangkung seafood",
+            "ca kangkung ayam",
+            "ca kangkung cumi",
+            "ca kangkung udang"
+        ],
+        "nasi goreng": [
+            "nasi goreng telur dadar",
+            "nasi goreng spesial",
+            "nasi goreng sosis",
+            "nasi goreng ayam",
+            "nasi goreng cumi",
+            "nasi goreng udang",
+            "nasi gore seafood",
+            "nasi goreng babat"
+        ],
+        "bakmi": [
+            "bakmi ayam goreng",
+            "bakmi ayam kuah",
+            "bakmi cumi kuah",
+            "bakmi cumi goreng",
+            "bakmi udang kuah",
+            "bakmi udang goreng",
+            "bakmi seafood kuah",
+            "bakmi seafood goreng",
+            "bakmi spesial kuah",
+            "bakmi spesial goreng"
+        ],
+        "menu baru": [
+            "bakso kuah seafifood"
+        ],
+        "bihun": [
+            "bihun ayam kuah",
+            "bihun ayam goreng",
+            "bihun cumi goreng/kuah",
+            "bihun udang goreng/kuah",
+            "bihun seafood goreng",
+            "bihun spesial goreng/kuah"
+        ],
+        "kwetiao": [
+            "kwetiao udang kuah",
+            "kwetiao ayam goreng",
+            "kwetiao cumi goreng",
+            "kwetiao udang goreng",
+            "kwetiao seafood goreng",
+            "kwetiao spesial goreng"
+        ],
+        "soup jamur": [
+            "soup jamur ayam + nasi",
+            "soup jamur cumi + nasi",
+            "soup jamur udang + nasi",
+            "soup jamur seafood + nasi",
+            "soup jamur spesial + nasi"
+        ]
+    }
+]

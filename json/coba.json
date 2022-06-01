@@ -1,0 +1,30 @@
+[
+    {
+        "nama": "Firda Nur",
+        "umur": "24",
+        "nim": "4201415007",
+        "lulus": false,
+        "hobi": [
+            "belanja online",
+            "mengoleksi buku"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Sugiyanto",
+            "pembimbing2": "Hartono"
+        }
+    },
+    {
+        "nama": "Sintya Rina",
+        "umur": "23",
+        "nim": "4201415001",
+        "lulus": true,
+        "hobi": [
+            "cosplay",
+            "koleksi make up"
+        ],
+        "pembimbing": {
+            "pembimbing1": "Teguh Darsono",
+            "pembimbing2": "Imam Sumpono"
+        }
+    }
+]
